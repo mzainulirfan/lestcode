@@ -7,11 +7,11 @@
     "content-hash": "657ac079313fab046eb8c29fe1d6992b",
     "packages": [
         {
-            "name": "mzainulirfan/lestcode",
+            "name": "codeigniter4/framework",
             "version": "v4.5.3",
             "source": {
                 "type": "git",
-                "url": "https://github.com/mzainulirfan/lestcode.git",
+                "url": "https://github.com/codeigniter4/framework.git",
                 "reference": "be27314371eece7ff3ac7c13d5b2f39f95038dfa"
             },
             "dist": {
