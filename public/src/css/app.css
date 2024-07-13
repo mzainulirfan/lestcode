@@ -2,27 +2,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@layer base {
-    body {
-        @apply font-inter;
-    }
-    ::selection {
-        @apply bg-main text-white;
-    }
-}
-
-@layer components {
-    .hover {
-        @apply bg-main/5 rounded-xl text-main border border-main/60;
-    }
-    .transisi {
-        @apply transition duration-200;
-    }
-    .active {
-        @apply bg-main text-white;
-    }
-    .main {
-        width: calc(100% - 256px);
-    }
-}
